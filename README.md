@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShyrikSV
-- 👀 I’m interested in Data Engineering BigData, Cybe Sequrity, web, hard - all of this staff!
-- 🌱 I’m currently learning Engineering BigData & Cybe Sequrity
+- 👀 I’m interested in Data Engineering BigData, Cybe Security, web, hard - all of this staff!
+- 🌱 I’m currently learning Engineering BigData & Cybe Security
 - 📫 How to reach me - write me a message in Telegram: [@elPlanko](https://t.me/elPlanko)
 
 <!---
