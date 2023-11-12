@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShyrikSV
-- 👀 I’m interested in Data Engineering BigData, Cybe Security, web, hard, embedded - all of this staff!
+- 👀 I’m interested in Cloud, AI, Data Engineering, BigData, Cybe Security, hard, embedded - and much much more!
 - 📫 How to reach me - write me a message in Telegram: [@elPlanko](https://t.me/elPlanko)
 
 <!---
